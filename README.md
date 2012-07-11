@@ -8,15 +8,15 @@ Keywords
 
 I've tried to keep the keywords as simple to remember as possible.  When you type in each keyword you will get one or more options that you can use for your given situation.
 
-bye
-clap
-excited
-mad
-no
-omg
-phone
-wtf
-yes
+- bye
+- clap
+- excited
+- mad
+- no
+- omg
+- phone
+- wtf
+- yes
 
 
 Installation 
