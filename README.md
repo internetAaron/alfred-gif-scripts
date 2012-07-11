@@ -35,3 +35,5 @@ Author
 
 + http://twitter.com/internetAaron
 + http://callmeaaron.com
+
+Shout-out to @blue642 for his help.
