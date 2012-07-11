@@ -1,7 +1,7 @@
 Overview
 -----------
 
-It's been becoming more and more popular to post gifs to twitter but often it takes way to long to find the appropriate gif to express what you're feeling.  So I've started a library of Alfred scripts that will copy and past the animated gif to your clipboard for easy sharing.
+I often enjoy posting animated gifs to express how I'm feeling or during chat conversations with friends but often it takes way to long to find the appropriate gif to express what you're needing.  So I've started a library of Alfred scripts that will copy and past the animated gif url to your clipboard for easy sharing.
 
 Keywords
 --------
@@ -17,6 +17,15 @@ omg
 phone
 wtf
 yes
+
+
+Installation 
+------------
+
+1. Open Alfred preferences.
+2. Go to the Extensions tab.
+3. Drag .alfredextension files to Scripts section in the side bar.
+4. Start gifing!
 
 
 Authors
