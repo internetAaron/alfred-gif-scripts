@@ -28,7 +28,7 @@ Installation
 4. Start gifing!
 
 
-Authors
+Author
 -------
 
 **Aaron White**
